@@ -10,3 +10,11 @@ Our aim is to address the critical need for novel therapeutics in the fight agai
 Training: Our comprehensive training programs provide hands-on experience in phage hunting and related methodologies, empowering participants with practical skills.
 
 * Collaboration: We partner with leading institutions, researchers, and healthcare professionals worldwide to foster a collaborative environment that drives innovation.
+
+## Code of conduct
+In order to foster a positive and professional learning experience for all of us. We encourage you to : Focus on what is best for the community
+
+* Show courtesy and respect towards each other
+* Use a positive and inclusive language
+* Be respectful of different viewpoints
+* Focus on growth mentality
